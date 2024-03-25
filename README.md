@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Helen
 
+Systems Engineer, working as Scrum Master, Product Owner, Project Manager, with technical knowledge, with more than 16 years of experience in the IT industry, 10 years in project management, with agile and traditional frameworks. Accompanying the teams to achieve their objectives, following a roadmap aligned to the strategic OKRs of the organization with a focus on delivering value to the customer.
+Leading and accompanying the portfolio of projects in the areas of Fintech, Paytech, E-commerce, cybersecurity, IT Governance, Core Commercial, Logistics, participating in service audits and deliverables, in the areas of Telecommunications, Financial, Academic, University Administrative and Retail.
+💬 Ask me about Agile frameworks 
+📫 How to reach me: rhhelen20@gmail.com  
+⚡ Fun fact: I enjoy to past time on family, I love play with my children, dancing, travel, making handicrafts, paint and preparate dessert.
 <!--
 **rhhelen20/rhhelen20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
